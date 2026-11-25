@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Girum Tekle
+👋 Hello, I'm Girum Tekle
 
 **Software Engineering Student · Aspiring Full-Stack Developer**
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 I'm a Software Engineering student at **Wachemo University, Ethiopia**. I build web applications with PHP, MySQL, and JavaScript, and I'm working toward a career as a full-stack developer.
 
@@ -38,7 +38,7 @@ I'm a Software Engineering student at **Wachemo University, Ethiopia**. I build 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**Backend & Programming**
+Backend & Programming
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -63,50 +63,19 @@ I'm a Software Engineering student at **Wachemo University, Ethiopia**. I build 
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏠 [Web-Based Dormitory Management System](https://github.com/girumtekle/YOUR-REPO-NAME)
-
-A university project that digitizes student dormitory allocation and management.
-
-- Student registration and information management
-- Dormitory and room allocation
-- Feedback and reporting
-- **Stack:** HTML, CSS, JavaScript, PHP, MySQL
 
 <!-- Add a screenshot or GIF: ![Dormitory system screenshot](path/to/screenshot.png) -->
 <!-- Add a live demo link if you host it: [Live demo](https://...) -->
 
-### 🌐 [Web Development Projects](https://github.com/girumtekle/YOUR-REPO-NAME)
+ 🌐 [Web Development Projects](https://github.com/girumtekle/YOUR-REPO-NAME)
 
 Frontend practice projects built with HTML, CSS, and JavaScript.
 
 ### ⚙️ [Programming Projects](https://github.com/girumtekle/YOUR-REPO-NAME)
 
 Coursework and exercises in Java and C++.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=girumtekle&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girumtekle&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 🎯 Goals
-
-- Become a professional full-stack developer building reliable, user-friendly web applications
-- Strengthen my backend, database, and software architecture skills
-- Contribute to open-source projects
-
----
-
-## 📫 Connect With Me
+📫 Connect With Me
 
 <div align="center">
 
