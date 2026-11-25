@@ -29,24 +29,37 @@ I'm continuously learning, exploring new ideas, and developing my skills to crea
 - 🚀 Building my journey in the technology world.
 
 ---
-## 🌍 Connect With Me
+<!-- CONNECT WITH ME -->
 
 <div align="center">
 
-<a href="https://github.com/girumtekle">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+## 🌍 Let's Connect & Collaborate!
+
+<p>
+  I'm always interested in connecting with developers, sharing ideas, 
+  learning new technologies, and exploring opportunities.
+</p>
 
 <br>
 
-<a href="https://www.linkedin.com/in/girum-tekle-915325353">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/girumtekle" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
-<a href="https://t.me/girum7">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://www.linkedin.com/in/girum-tekle-915325353" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br><br>
+
+<a href="https://t.me/girum7" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Send%20Me%20a%20Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br><br>
+
+**💬 Open to Learning • Collaboration • Innovation**
 
 </div>
