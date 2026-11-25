@@ -38,13 +38,13 @@ I'm continuously learning, exploring new ideas, and developing my skills to crea
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/girum-tekle-915325353">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://t.me/girum7">
   <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
