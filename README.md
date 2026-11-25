@@ -1,36 +1,23 @@
-<div align="center">
+# 👋 Hi, I'm Girum Tekle
 
-👋 Hello, I'm Girum Tekle
+Software Engineering student at **Wachemo University, Ethiopia**, learning to become a full-stack developer.
 
-**Software Engineering Student · Aspiring Full-Stack Developer**
+## 🛠️ Skills
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full-Stack+Web+Development;PHP+%7C+MySQL+%7C+JavaScript" alt="Typing SVG" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Ethiopia-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=for-the-badge" />
-</p>
+## 🚀 Projects
 
-</div>
+- **[Web-Based Dormitory Management System](https://github.com/girumtekle/YOUR-REPO-NAME)**: manages student dormitory allocation, rooms, and feedback. Built with PHP, MySQL, HTML, CSS, JavaScript.
+- **[Web Development Projects](https://github.com/girumtekle/YOUR-REPO-NAME)**: frontend practice with HTML, CSS, JavaScript.
 
----
+## 📫 Contact
 
- 👨‍💻 About Me
-
-I'm a Software Engineering student at **Wachemo University, Ethiopia**. I build web applications with PHP, MySQL, and JavaScript, and I'm working toward a career as a full-stack developer.
-
-- 🎓 B.Sc. Software Engineering, Wachemo University
-- 🔭 Currently working on: **[add your current project or topic here]**
-- 🌱 Currently learning: **[e.g. a framework, Git workflows, software security]**
-- 🗄️ Interested in database design and backend development
-- 🤝 Open to collaboration and open-source contributions
-
-<div align="center">
-
-<a href="https://github.com/girumtekle"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/girum-tekle-915325353"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/girum7"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
+[GitHub](https://github.com/girumtekle) · [LinkedIn](https://www.linkedin.com/in/girum-tekle-915325353) · [Telegram](https://t.me/girum7)
