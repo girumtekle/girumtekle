@@ -1,23 +1,91 @@
-# 👋 Hi, I'm Girum Tekle
 
-Software Engineering student at **Wachemo University, Ethiopia**, learning to become a full-stack developer.
+<div align="center">
 
-## 🛠️ Skills
+# 👋 Hello, I'm Girum Tekle
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Software Engineering Student | Aspiring Full-Stack Developer
 
-## 🚀 Projects
+**Learning • Building • Improving • Innovating**
 
-- **[Web-Based Dormitory Management System](https://github.com/girumtekle/YOUR-REPO-NAME)**: manages student dormitory allocation, rooms, and feedback. Built with PHP, MySQL, HTML, CSS, JavaScript.
-- **[Web Development Projects](https://github.com/girumtekle/YOUR-REPO-NAME)**: frontend practice with HTML, CSS, JavaScript.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
 
-## 📫 Contact
+</div>
 
-[GitHub](https://github.com/girumtekle) · [LinkedIn](https://www.linkedin.com/in/girum-tekle-915325353) · [Telegram](https://t.me/girum7)
+---
+
+## 👨‍💻 About Me
+
+I'm **Girum Tekle**, a Software Engineering student at **Wachemo University, Ethiopia**.
+
+- 🎓 Software Engineering Student.
+- 💻 Interested in Full-Stack Development.
+- 🌱 Always learning new technologies.
+- 🗄️ Interested in Database Management.
+- 🚀 Aspiring Professional Software Developer.
+- 🤝 Open to collaboration and learning opportunities.
+
+## 🛠️ Skills & Technologies
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Programming:** Java, C++
+- **Backend:** PHP
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, XAMPP
+
+## 🚀 Featured Projects
+
+**1. Web-Based Dormitory Management System**
+- Student management, dormitory allocation, and room management.
+- Technologies: HTML, CSS, JavaScript, PHP, MySQL.
+
+**2. Web Development Projects**
+- Practical frontend development exercises.
+- Technologies: HTML, CSS, JavaScript.
+
+**3. Programming Projects**
+- Programming exercises and applications.
+- Technologies: Java, C++.
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=girumtekle&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girumtekle&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🎓 Education
+
+**Wachemo University**
+
+Bachelor of Science in Software Engineering
+
+Ethiopia 🇪🇹
+
+## 🎯 Career Goals
+
+- Become a professional Full-Stack Developer.
+- Build modern web applications.
+- Improve programming and problem-solving skills.
+- Contribute to open-source projects.
+- Collaborate with developers worldwide.
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/girumtekle)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/girum-tekle-915325353)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/girum7)
+
+---
+
+**"Great software begins with curiosity and grows through consistent learning."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
