@@ -48,7 +48,7 @@ I'm continuously learning, exploring new ideas, and developing my skills to crea
 
 <br>
 
-<a href="https://www.linkedin.com/in/girum-tekle-915325353" target="_blank">
+<a href="https://www.linkedin.com/in/girum-tekle" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
