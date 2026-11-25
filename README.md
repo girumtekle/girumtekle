@@ -5,9 +5,9 @@
 
 <div align="center">
 
-# 👋 Hello, I'm Girum Tekle
+ 👋 Hello, I'm Girum Tekle
 
-### Software Engineering Student | Aspiring Full-Stack Developer
+ Software Engineering Student | Aspiring Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Aspiring+Full-Stack+Developer;Building+Ideas+Into+Solutions" alt="Typing SVG" />
 
@@ -17,13 +17,13 @@
   <img src="https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=for-the-badge" />
 </p>
 
-**Learning • Building • Improving • Innovating**
+Learning • Building • Improving • Innovating
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 I'm **Girum Tekle**, a Software Engineering student at **Wachemo University, Ethiopia**, passionate about programming, software development, and modern technology.
 
@@ -41,9 +41,9 @@ My current focus is building a strong foundation in Full-Stack Development while
 
 ---
 
-## 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 
-### 🌐 Frontend Development
+ 🌐 Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -51,7 +51,7 @@ My current focus is building a strong foundation in Full-Stack Development while
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### ⚙️ Programming & Backend
+ ⚙️ Programming & Backend
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -59,13 +59,13 @@ My current focus is building a strong foundation in Full-Stack Development while
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### 🗄️ Database
+🗄️ Database
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🔧 Development Tools
+🔧 Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -76,13 +76,13 @@ My current focus is building a strong foundation in Full-Stack Development while
 
 ---
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
-### 01. Web-Based Dormitory Management System
+ 01. Web-Based Dormitory Management System
 
 A university academic project designed to improve student dormitory allocation and dormitory management through a web-based system.
 
-**Focus Areas:**
+Focus Areas:
 
 - Student information management.
 - Dormitory allocation.
@@ -90,25 +90,24 @@ A university academic project designed to improve student dormitory allocation a
 - Feedback and reporting.
 - Database management.
 
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
+Technologies: HTML, CSS, JavaScript, PHP, MySQL.
 
-### 02. Web Development Projects
+02. Web Development Projects
 
 A collection of practical web development exercises and applications focused on building frontend development skills.
 
-**Technologies:** HTML, CSS, JavaScript.
+Technologies: HTML, CSS, JavaScript.
 
-### 03. Programming Projects
+ 03. Programming Projects
 
 Programming exercises and applications developed while studying software engineering concepts.
 
-**Technologies:** Java, C++.
+Technologies: Java, C++.
 
 > Visit my repositories to explore my source code and ongoing projects.
 
 ---
-
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
 
@@ -120,7 +119,7 @@ Programming exercises and applications developed while studying software enginee
 
 ---
 
-## 🔥 Contribution Activity
+🔥 Contribution Activity
 
 <div align="center">
 
@@ -130,9 +129,9 @@ Programming exercises and applications developed while studying software enginee
 
 ---
 
-## 🎓 Education
+🎓 Education
 
-**Wachemo University**
+Wachemo University
 
 Bachelor of Science in Software Engineering
 
@@ -140,7 +139,7 @@ Ethiopia
 
 ---
 
-## 🎯 My Career Goals
+ 🎯 My Career Goals
 
 - Become a skilled Full-Stack Software Developer.
 - Develop modern and responsive web applications.
@@ -152,7 +151,7 @@ Ethiopia
 
 ---
 
-## 🤝 Connect With Me
+  Connect With Me
 
 <div align="center">
 
@@ -173,7 +172,7 @@ Ethiopia
 ---
 
 <div align="center">
-**Thanks for visiting my GitHub profile! ⭐**
+Thanks for visiting my GitHub profile! ⭐
 
 </div>
 
