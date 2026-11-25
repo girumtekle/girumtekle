@@ -52,7 +52,7 @@ Backend & Programming
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**Tools**
+Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -60,22 +60,6 @@ Backend & Programming
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
-
----
-
-
-
-<!-- Add a screenshot or GIF: ![Dormitory system screenshot](path/to/screenshot.png) -->
-<!-- Add a live demo link if you host it: [Live demo](https://...) -->
-
- 🌐 [Web Development Projects](https://github.com/girumtekle/YOUR-REPO-NAME)
-
-Frontend practice projects built with HTML, CSS, and JavaScript.
-
-### ⚙️ [Programming Projects](https://github.com/girumtekle/YOUR-REPO-NAME)
-
-Coursework and exercises in Java and C++.
-📫 Connect With Me
 
 <div align="center">
 
