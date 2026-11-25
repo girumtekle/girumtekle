@@ -25,12 +25,6 @@ I'm a Software Engineering student at **Wachemo University, Ethiopia**. I build 
 - 🌱 Currently learning: **[e.g. a framework, Git workflows, software security]**
 - 🗄️ Interested in database design and backend development
 - 🤝 Open to collaboration and open-source contributions
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-</p>
 
 <div align="center">
 
